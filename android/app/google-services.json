@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98247525765",
+    "project_id": "phone-login-deepak-app",
+    "storage_bucket": "phone-login-deepak-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98247525765:android:9e61cef388dce9bb0670ec",
+        "android_client_info": {
+          "package_name": "com.SudasSolutions.DeepITNotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98247525765-5s506tjfckm0o3hpepd1jojc4uf8jukc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SudasSolutions.DeepITNotes",
+            "certificate_hash": "863758f71ef0bbd17c4d41e3baefcf8a20689354"
+          }
+        },
+        {
+          "client_id": "98247525765-89h5342aut950jv0cvo86dv5mhjv1re1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx-hZnIPvbeoJM6LkeKRPr4YbkQ8CigAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98247525765-89h5342aut950jv0cvo86dv5mhjv1re1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
